@@ -1,5 +1,5 @@
 img {
-    height: 50%;
+    height: 100%;
     width: 50%;
     float: left
 }
@@ -7,6 +7,17 @@ img {
     width: 40%;
     float: left;
     margin: 10px;
-    border: solid 2px olive;
+    border: dotted 1px olive;
     padding: 5px;
+
 }    
+.column a {
+    font-style: oblique;
+}
+h1 {
+    font-family: Tahoma;
+    font-size: 300%;
+    border: dotted 2px #2C3E50 ;
+    padding: 10px;
+    text-align: center;
+}
