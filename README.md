@@ -28,7 +28,7 @@ cd portfolio
 Install Liveserver on WSL
 Launch portfolio.html using liveserver
 
-##link to live site on GitHub Pages
+## Link to live site on GitHub Pages
 
 
 ## License
