@@ -13,6 +13,7 @@ img {
 }    
 .column a {
     font-style: oblique;
+    background-color: aquamarine;
 }
 h1 {
     font-family: Tahoma;
@@ -20,4 +21,11 @@ h1 {
     border: dotted 2px #2C3E50 ;
     padding: 10px;
     text-align: center;
+}
+.column ul p {
+    font-style: italic;
+    font-family: monospace;
+}
+h2 {
+    font-family: cursive;
 }
