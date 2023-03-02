@@ -30,7 +30,7 @@ Launch portfolio.html using liveserver
 
 ## Link to live site on GitHub Pages
 
-https://github.com/Immaq/portfolio
+https://immaq.github.io/portfolio/
 
 
 ## License
